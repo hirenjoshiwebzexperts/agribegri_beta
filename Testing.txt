@@ -1,0 +1,12 @@
+1.Bugs
+	- After duplicate product modal not close
+2.Same not Like Staging
+	- After Duplicate Product
+		- Not Showing Display On Homepage Field in Every Variant
+	- After Product Edit similar product not selected show one alert box but in beta it's redirect to manage _product page
+	- Shipping Through
+		- Staging - No change
+		- Beta - change value (Courier Charges, COD or Bank Charges)
+
+3.Company, Category, Sub Category, Sub Sub Category : Image not upload
+4.
